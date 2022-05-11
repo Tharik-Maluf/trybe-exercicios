@@ -3,3 +3,5 @@ What I'll learn at Trybe:
 -Unix
 -Bash
 -Git
+-JavaScript
+-Python
