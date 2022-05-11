@@ -5,3 +5,5 @@ What I'll learn at Trybe:
 -Git
 -JavaScript
 -Python
+-HTML
+-CSS
