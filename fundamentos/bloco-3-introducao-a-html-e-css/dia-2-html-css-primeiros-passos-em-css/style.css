@@ -1,0 +1,25 @@
+h1{
+    font-family: sans-serif;
+    text-align: center
+}
+p{
+  font-weight: 600;
+  font-size: 3em;
+}
+body {
+  font-size: 16px;
+  font-style: italic;
+}
+#zebra{
+  line-height: 40px;
+  text-decoration: underline;
+}
+#Yellow {
+  background-color: yellow;
+}
+#Red{
+  background-color: red;
+}
+#Brown{
+  background-color: brown;
+}
