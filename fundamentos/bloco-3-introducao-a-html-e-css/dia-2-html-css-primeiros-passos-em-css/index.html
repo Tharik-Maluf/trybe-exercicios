@@ -5,21 +5,39 @@
     <title>HTML</title>
     <style>
        h1{
-           font-size: 65px;
-           color: orange;
+           font-family: sans-serif;
+           text-align: center
        }
-       .zebra {
-           background-color: rgb(13, 221, 211);
+       p{
+         font-weight: 600;
+         font-size: 3em;
+       }
+       body {
+         font-size: 16px;
+         font-style: italic;
+       }
+       #zebra{
+         line-height: 40px;
+         text-decoration: underline;
+       }
+       #Yellow {
+         background-color: yellow;
+       }
+       #Red{
+         background-color: red;
+       }
+       #Brown{
+         background-color: rgba(165, 42, 42);
        }
     </style>
   </head>
   <body>
     <h1>Exercícios 3.2</h1>
-    <p class="zebra">Qual é a sua cor favorita?</p>
-    <ul class="zebra">
-      <li>Amarelo</li>
-      <li>Vermelho</li>
-      <li>Marrom</li>
+    <p>Qual é a sua cor favorita?</p>
+    <ul id="zebra">
+      <li id="Yellow">Amarelo</li>
+      <li id="Red">Vermelho</li>
+      <li id="Brown">Marrom</li>
     </ul>
   </body>
 </html>
